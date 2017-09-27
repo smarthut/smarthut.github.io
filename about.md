@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here is About page for [SmartHut](https://smarthut.cc). You can find it's source
+code on Github: [smarthut](smarthut-organization) / 
+[smarthut](https://github.com/smarthut/smarthut)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here is the list of supported devices. You can find ther source code on Github.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* [smarthut][smarthut-organization] / [laurent112](https://github.com/smarthut/laurent112)
+* [smarthut][smarthut-organization] / [megad328](https://github.com/smarthut/megad328)
 
+Docker images are planned but not ready yet.
 
-[jekyll-organization]: https://github.com/jekyll
+[smarthut-organization]: https://github.com/smarthut
